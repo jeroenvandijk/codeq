@@ -1,0 +1,4 @@
+{:deps
+ {com.datomic/datomic-free #:mvn{:version "0.9.4699"},
+  commons-codec #:mvn{:version "1.7"},
+  org.clojure/clojure #:mvn{:version "1.5.1"}}}
